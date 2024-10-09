@@ -725,4 +725,5 @@ void FuzzerCleanup(void)
     FuzzerClearRand();
     // Testing new
     // Update cred2
+    // Update cred3
 }
