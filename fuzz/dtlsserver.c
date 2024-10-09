@@ -723,4 +723,10 @@ int FuzzerTestOneInput(const uint8_t *buf, size_t len)
 void FuzzerCleanup(void)
 {
     FuzzerClearRand();
+    // Testing new
+    // Update cred2
+    // Update cred6
+    // Update cred7
+    // OAUTH APP 2
+    // OAUTH APP 4
 }
